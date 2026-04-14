@@ -2,7 +2,7 @@
 
 This is the public feedback tracker for **Git Client for GitHub**, a native iOS app for browsing repositories, reviewing changes, and syncing files between GitHub and your device.
 
-→ [Download on the App Store](#) *(link coming soon)*
+→ [Download on the App Store](#https://apps.apple.com/de/app/git-client/id6758091553)
 
 ---
 
